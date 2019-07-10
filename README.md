@@ -6,4 +6,4 @@ Cf. [Original Quora query](https://www.quora.com/A-fair-die-will-be-rolled-twelv
 Sample result
 ----
 
-![](https://github.com/drbitboy/twelverolls/twelverolls_sample.png)
+![](https://github.com/drbitboy/twelverolls/raw/master/twelverolls_sample.png)
