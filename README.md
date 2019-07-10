@@ -7,3 +7,9 @@ Sample result
 ----
 
 ![](https://github.com/drbitboy/twelverolls/raw/master/twelverolls_sample.png)
+
+Usage
+----
+
+    python twelverolls.py --loops=1000 | python plot12rolls.py 
+
