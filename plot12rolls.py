@@ -14,6 +14,7 @@ if "__main__" == __name__:
 
   avg = sum(lt_data)/count
   plt.xlim([mn,mx])
+  plt.axvline(expected,color='k',label='Expected ({0})'.format(expected))
   plt.axvline(avg,color='r',label='Mean')
   plt.hist(lt_data,bins=bins,histtype='bar',label='Histogram')
   plt.xlabel('Modeled cases per 4096 rolls with even count<5')
